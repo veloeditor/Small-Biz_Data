@@ -1,0 +1,27 @@
+body {
+    background-color: oldlace;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#employees-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    justify-content: space-evenly;
+}
+
+.employee {
+    background-color: lightskyblue;
+    flex-basis: 50%;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding-left: 5px;
+    padding-bottom: 10px;
+
+}
+
+#container {
+    display: flex;
+    margin: auto;
+    justify-content: space-evenly;
+}

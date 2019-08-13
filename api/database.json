@@ -1,0 +1,60 @@
+{
+    "employees": [{
+            "id": 1,
+            "full_name": "Mary Beth",
+            "departmentId": 1,
+            "computerId": 2
+        },
+        {
+            "id": 2,
+            "full_name": "John Smith",
+            "departmentId": 2,
+            "computerId": 3
+        },
+        {
+            "id": 3,
+            "full_name": "Steven Tyler",
+            "departmentId": 1,
+            "computerId": 2
+        },
+        {
+            "id": 4,
+            "full_name": "Jenna Davis",
+            "departmentId": 2,
+            "computerId": 3
+        },
+        {
+            "id": 5,
+            "full_name": "Jennifer Adams",
+            "departmentId": 3,
+            "computerId": 1
+        }
+    ],
+    "departments": [{
+            "id": 1,
+            "departmentName": "IT"
+        },
+        {
+            "id": 2,
+            "departmentName": "Receiving"
+        },
+        {
+            "id": 3,
+            "departmentName": "Sales"
+        }
+    ],
+    "computers": [{
+            "id": 1,
+            "name": "Apple MacBook Pro"
+        },
+        {
+            "id": 2,
+            "name": "Dell Inspiron 15"
+        },
+        {
+            "id": 3,
+            "name": "Apple iMac 27"
+        }
+    ]
+
+}
